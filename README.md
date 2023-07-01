@@ -12,8 +12,11 @@ pip install -r requirements.txt
 ```
 token=token
 ```
+3. After setting the bot token in the `.env' file, you must set the bot admin's numerical ID in the `bot.py' file.
+A variable named ``admin_id'' is located in line 13 of the ``bot.py'' file
+Delete the value in front of it and put your numerical ID in front of it
 
-3. start the bot.
+5. start the bot.
 ```bash
 python bot.py
 ```
