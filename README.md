@@ -15,7 +15,9 @@ token=token
 3. After setting the bot token in the `.env' file, you must set the bot admin's numerical ID in the `bot.py' file.
 A variable named ``admin_id'' is located in line 13 of the ``bot.py'' file
 Delete the value in front of it and put your numerical ID in front of it
-
+```python
+admin_id = 1713227576
+```
 5. start the bot.
 ```bash
 python bot.py
