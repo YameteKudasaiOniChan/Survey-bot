@@ -118,7 +118,7 @@ def Send_Comment(message, bot, admin_id):
     {comment_dict[chat_id].quest_1}   
 
 
-    سوال دوم ناموسا هیچی به ذهنم نمیرسه بگذر
+    زمان بندی ارسال محصول پگونه بود؟
     {comment_dict[chat_id].quest_2}  
 
 
